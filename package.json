@@ -1,0 +1,12 @@
+{
+  "name": "canvas-course-stats",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "D. Stuart Freeman",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "canvas-lms-api": "^0.2.2",
+    "dotenv": "^8.2.0"
+  }
+}
